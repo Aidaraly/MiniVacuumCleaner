@@ -1,3 +1,0 @@
-aidar
-DESKTOP-9915K8Q 
-Tuesday, May 12, 2020  6:13:13 PM
