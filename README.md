@@ -2,6 +2,7 @@
 # Story
 Our team lost a lot of time to choose project, and finally We decided to do mini vacuum cleaner. 
 # Description
+This is mini vacuum cleaner details you need TO STICK THIS ARE TOGETHER.
 # Capabilities 
 This is just simple so you can to regulate speed of dc motor.
 # Details
@@ -26,8 +27,9 @@ This is just simple so you can to regulate speed of dc motor.
 ![Circuits Exquisite Borwo-Blorr _ Tinkercad - Google Chrome 5_14_2020 3_24_10 PM](https://user-images.githubusercontent.com/44225090/81917527-1df0c300-95f7-11ea-9b50-8feb969deaf2.png)
 
 # LINKS
-[Thingiverse](https://www.thingiverse.com/thing:4362623)
-
+[Thingiverse](https://www.thingiverse.com/thing:4362623) 
+[Youtube 1](https://youtu.be/QP7QQjZh8NU)
+[Youtube 2](https://youtu.be/KhVMNV8dTnw)
 # Team members
 - Aidaraly Anarbaev
 - Anvarbek Anvarov
